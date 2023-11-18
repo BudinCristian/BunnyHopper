@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPG",
+			"Path": "..\\Source\\TPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPGEditor",
+			"Path": "..\\Source\\TPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
